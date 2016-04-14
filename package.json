@@ -1,13 +1,13 @@
 {
   "name": "structure-sdk-js",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "The Structure JavaScript SDK",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GetStructure/structure-sdk-js.git"
   },
   "main": "index.js",
-  "author": "Structure <hello@getstructure.io>",
+  "author": "Losant <hello@losant.com>",
   "license": "MIT",
   "scripts": {
     "pretest": "jshint *.js lib/*.js test/*.js examples/*.js",

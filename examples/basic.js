@@ -1,8 +1,8 @@
 /**
  * Basic example of connecting to the Structure platform.
  *
- * Copyright (c) 2016 Structure. All rights reserved.
- * http://www.getstructure.io
+ * Copyright (c) 2016 Losant. All rights reserved.
+ * https://www.losant.com
  */
 
 var Device = require('structure-sdk-js').Device;
