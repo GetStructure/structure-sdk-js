@@ -5,5 +5,6 @@ WARNING
 
 ============
 
-Copyright (c) 2016 Losant
-https://www.losant.com
+Copyright (c) 2016 Losant IoT, Inc
+
+<https://www.losant.com>
